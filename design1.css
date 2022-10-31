@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+}
+header{
+    background-color: rgb(208, 99, 117);
+    height: 150px;
+}
+section{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+    height: 400px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+footer{
+    background-color: rgb(141, 32, 68);
+    height: 150px;
+}
+#div1{
+    background-color: rgb(184, 70, 70);
+    margin-right: 15px;
+}
+#div2{
+    background-color: rgb(164, 34, 34);
+}
