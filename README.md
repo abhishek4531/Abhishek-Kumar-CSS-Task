@@ -1,2 +1,2 @@
-# Abhishek-Kumar-CSS-and-Advanced-CSS-Task
-I attached here both HTML files and JPEG files. JPEG files are expected design of their respective HTML file.
+# Abhishek-Kumar-CSS-Task
+I attached here HTML, CSS files and files. JPEG files are expected design of their respective HTML file.
